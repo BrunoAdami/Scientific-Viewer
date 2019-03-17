@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="EP3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/EP3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/EP3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add option="-fexceptions" />
+			<Add directory="Qt-Windows" />
+		</Compiler>
+		<Linker>
+			<Add library="Qt-Windows/libQt5Charts.a" />
+			<Add library="Qt-Windows/libQt5Core.a" />
+			<Add library="Qt-Windows/libQt5Widgets.a" />
+			<Add directory="Qt-Windows" />
+		</Linker>
+		<Unit filename="Eixo.CPP" />
+		<Unit filename="Eixo.H" />
+		<Unit filename="EixoDinamico.cpp" />
+		<Unit filename="EixoDinamico.h" />
+		<Unit filename="EixoEstatico.cpp" />
+		<Unit filename="EixoEstatico.h" />
+		<Unit filename="ErroDeArquivo.cpp" />
+		<Unit filename="ErroDeArquivo.h" />
+		<Unit filename="Grafico.CPP" />
+		<Unit filename="Grafico.h" />
+		<Unit filename="InterfaceSerial.cpp" />
+		<Unit filename="InterfaceSerial.h" />
+		<Unit filename="PersistenciaDeSerie.cpp" />
+		<Unit filename="PersistenciaDeSerie.h" />
+		<Unit filename="Ponto.cpp" />
+		<Unit filename="Ponto.h" />
+		<Unit filename="Serie.H" />
+		<Unit filename="Serie.cpp" />
+		<Unit filename="SerieNormal.cpp" />
+		<Unit filename="SerieNormal.h" />
+		<Unit filename="SerieTemporal.cpp" />
+		<Unit filename="SerieTemporal.h" />
+		<Unit filename="Tela.cpp" />
+		<Unit filename="Tela.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

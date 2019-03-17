@@ -1,0 +1,1067 @@
+# depslib dependency file v1.0
+1511716801 source:c:\users\lucas\desktop\ep3\eixo.cpp
+	"Eixo.h"
+
+1511716801 c:\users\lucas\desktop\ep3\eixo.h
+	<iostream>
+
+1511716801 source:c:\users\lucas\desktop\ep3\eixodinamico.cpp
+	"EixoDinamico.h"
+
+1511716801 c:\users\lucas\desktop\ep3\eixodinamico.h
+	<iostream>
+	"Tela.h"
+	"SerieTemporal.h"
+	"Serie.h"
+	"Ponto.h"
+	"InterfaceSerial.h"
+	"Grafico.h"
+	"Eixo.h"
+
+1511716802 c:\users\lucas\desktop\ep3\tela.h
+	<string>
+	<map>
+	<vector>
+
+1511716802 c:\users\lucas\desktop\ep3\serietemporal.h
+	<iostream>
+	"Serie.h"
+	"Ponto.h"
+
+1511720478 c:\users\lucas\desktop\ep3\serie.h
+	<iostream>
+	<vector>
+	<stdexcept>
+	<string>
+	"Ponto.h"
+
+1511720478 c:\users\lucas\desktop\ep3\ponto.h
+	<iostream>
+
+1511716801 c:\users\lucas\desktop\ep3\interfaceserial.h
+	<string>
+	<windows.h>
+
+1511716801 c:\users\lucas\desktop\ep3\grafico.h
+	<iostream>
+	"Ponto.h"
+	"Serie.h"
+	"SerieTemporal.h"
+	"Tela.h"
+	"Eixo.h"
+	"EixoDinamico.h"
+	"InterfaceSerial.h"
+
+1511717894 source:c:\users\lucas\desktop\ep3\eixoestatico.cpp
+	"EixoEstatico.h"
+
+1511717894 c:\users\lucas\desktop\ep3\eixoestatico.h
+
+1511717817 source:c:\users\lucas\desktop\ep3\errodearquivo.cpp
+	"ErroDeArquivo.h"
+
+1511717817 c:\users\lucas\desktop\ep3\errodearquivo.h
+
+1511716801 source:c:\users\lucas\desktop\ep3\grafico.cpp
+	"Grafico.h"
+
+1511716801 source:c:\users\lucas\desktop\ep3\interfaceserial.cpp
+	"InterfaceSerial.h"
+	<stdio.h>
+	<vector>
+	<stdexcept>
+	<iostream>
+	<cctype>
+
+1511716802 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3\interfaceserial.cpp
+	"InterfaceSerial.h"
+	<stdio.h>
+	<vector>
+	<stdexcept>
+	<iostream>
+	<cctype>
+
+1511716802 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3\interfaceserial.h
+	<string>
+	<windows.h>
+
+1511825172 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3\eixo.cpp
+	"Eixo.h"
+	<stdexcept>
+
+1511730246 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3\eixo.h
+	<iostream>
+
+1512179580 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\eixo.cpp
+	"Eixo.h"
+	<stdexcept>
+
+1512182816 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\eixo.h
+	"Serie.H"
+	<list>
+	<stdexcept>
+	<iostream>
+
+1512166188 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\interfaceserial.cpp
+	"InterfaceSerial.h"
+	"InterfaceSerial.h"
+	<iostream>
+
+1512166188 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\interfaceserial.h
+	<string>
+
+1512179820 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\eixodinamico.cpp
+	"EixoDinamico.h"
+	<stdexcept>
+	"Eixo.h"
+
+1511956532 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\eixodinamico.h
+	<iostream>
+	<list>
+	"Tela.h"
+	"SerieTemporal.h"
+	"Serie.h"
+	"Ponto.h"
+	"InterfaceSerial.h"
+	"Grafico.h"
+	"Eixo.h"
+	<stdexcept>
+
+1511716804 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\tela.h
+	<string>
+	<map>
+	<vector>
+
+1511956532 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\serietemporal.h
+	<iostream>
+	"Serie.h"
+	"Ponto.h"
+	<stdexcept>
+
+1511957346 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\serie.h
+	<iostream>
+	<vector>
+	<stdexcept>
+	<string>
+	"Ponto.h"
+
+1511728328 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\ponto.h
+	<iostream>
+
+1511728618 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\grafico.h
+	<iostream>
+	<vector>
+	<stdexcept>
+	"Ponto.h"
+	"Serie.h"
+	"SerieTemporal.h"
+	"Tela.h"
+	"Eixo.h"
+	"EixoDinamico.h"
+	"InterfaceSerial.h"
+
+1512179580 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\eixoestatico.cpp
+	"EixoEstatico.h"
+
+1511956532 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\eixoestatico.h
+	"Eixo.h"
+	<stdexcept>
+
+1511741972 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\errodearquivo.cpp
+	"ErroDeArquivo.h"
+
+1511741972 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\errodearquivo.h
+	<iostream>
+	<stdexcept>
+
+1512179938 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\grafico.cpp
+	"Grafico.h"
+
+1512180556 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+	<stdexcept>
+	<stdlib.h>
+	"Eixo.h"
+	"EixoDinamico.h"
+	"EixoEstatico.h"
+	"ErroDeArquivo.h"
+	"Grafico.h"
+	"InterfaceSerial.h"
+	"PersistenciaDeSerie.h"
+	"Ponto.h"
+	"Serie.h"
+	"SerieTemporal.h"
+	"Tela.h"
+
+1512181338 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\persistenciadeserie.cpp
+	"PersistenciaDeSerie.h"
+
+1512181338 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\persistenciadeserie.h
+	"Serie.h"
+	"SerieNormal.h"
+	"SerieTemporal.h"
+	"Ponto.h"
+	"ErroDeArquivo.h"
+	<iostream>
+	<fstream>
+	<stdexcept>
+
+1511957592 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\serienormal.h
+	"Serie.h"
+	<stdexcept>
+
+1511716804 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\ponto.cpp
+	"Ponto.h"
+
+1511722690 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\serie.cpp
+	"Serie.h"
+
+1511728328 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\serienormal.cpp
+	"SerieNormal.h"
+
+1511728328 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\serietemporal.cpp
+	"SerieTemporal.h"
+
+1511716804 source:e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\tela.cpp
+	"Tela.h"
+	<QtWidgets/QApplication>
+	<QtWidgets/QMainWindow>
+	<QtCharts/QChartView>
+	<QtCharts/QLineSeries>
+
+1508723512 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qapplication
+	"qapplication.h"
+
+1508723512 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qapplication.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtCore/qcoreapplication.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qpoint.h>
+	<QtCore/qsize.h>
+	<QtGui/qcursor.h>
+	<QtWidgets/qdesktopwidget.h>
+	<QtGui/qguiapplication.h>
+
+1508723518 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qtwidgetsglobal.h
+	<QtGui/qtguiglobal.h>
+	<QtWidgets/qtwidgets-config.h>
+
+1508723506 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qtguiglobal.h
+	<QtCore/qglobal.h>
+	<QtGui/qtgui-config.h>
+
+1508723488 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qglobal.h
+	<type_traits>
+	<cstddef>
+	<utility>
+	<stddef.h>
+	<QtCore/qconfig-bootstrapped.h>
+	<QtCore/qconfig.h>
+	<QtCore/qtcore-config.h>
+	<QtCore/qsystemdetection.h>
+	<QtCore/qprocessordetection.h>
+	<QtCore/qcompilerdetection.h>
+	<algorithm>
+	<QtCore/qtypeinfo.h>
+	<QtCore/qsysinfo.h>
+	<QtCore/qlogging.h>
+	<QtCore/qflags.h>
+	<QtCore/qatomic.h>
+	<QtCore/qglobalstatic.h>
+	<QtCore/qnumeric.h>
+	<QtCore/qversiontagging.h>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qconfig-bootstrapped.h
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qconfig.h
+
+1508723494 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qtcore-config.h
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qsystemdetection.h
+	<QtCore/qglobal.h>
+	<TargetConditionals.h>
+	<Availability.h>
+	<AvailabilityMacros.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qprocessordetection.h
+	<QtCore/qglobal.h>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qcompilerdetection.h
+	<QtCore/qglobal.h>
+	<utility>
+
+1508723494 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qtypeinfo.h
+	<QtCore/qglobal.h>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qsysinfo.h
+	<QtCore/qglobal.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qlogging.h
+	<QtCore/qglobal.h>
+
+1508723488 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qflags.h
+	<QtCore/qglobal.h>
+	<initializer_list>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qatomic.h
+	<QtCore/qglobal.h>
+	<QtCore/qbasicatomic.h>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qbasicatomic.h
+	<QtCore/qatomic.h>
+	<QtCore/qatomic_bootstrap.h>
+	<QtCore/qatomic_cxx11.h>
+	<QtCore/qatomic_msvc.h>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qatomic_bootstrap.h
+	<QtCore/qgenericatomic.h>
+
+1508723488 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qgenericatomic.h
+	<QtCore/qglobal.h>
+	<QtCore/qtypeinfo.h>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qatomic_cxx11.h
+	<QtCore/qgenericatomic.h>
+	<atomic>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qatomic_msvc.h
+	<QtCore/qgenericatomic.h>
+
+1508723488 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qglobalstatic.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qmutex.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qmutex.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<new>
+	<chrono>
+	<limits>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qnumeric.h
+	<QtCore/qglobal.h>
+
+1508723494 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qversiontagging.h
+	<QtCore/qglobal.h>
+
+1508723506 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qtgui-config.h
+
+1508723518 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qtwidgets-config.h
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qcoreapplication.h
+	<QtCore/qglobal.h>
+	<QtCore/qstring.h>
+	<QtCore/qobject.h>
+	<QtCore/qcoreevent.h>
+	<QtCore/qeventloop.h>
+	<QtCore/qscopedpointer.h>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qstring.h
+	<QtCore/qchar.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qrefcount.h>
+	<QtCore/qnamespace.h>
+	<string>
+	<iterator>
+	<stdarg.h>
+	<QtCore/qstringbuilder.h>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qchar.h
+	<QtCore/qglobal.h>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qbytearray.h
+	<QtCore/qrefcount.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qarraydata.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<string>
+	<iterator>
+	<QtCore/qstring.h>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qrefcount.h
+	<QtCore/qatomic.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qnamespace.h
+	<QtCore/qglobal.h>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qarraydata.h
+	<QtCore/qrefcount.h>
+	<string.h>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qstringbuilder.h
+	<QtCore/qstring.h>
+	<QtCore/qbytearray.h>
+	<string.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qobject.h
+	<QtCore/qobjectdefs.h>
+	<QtCore/qstring.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qlist.h>
+	<QtCore/qcoreevent.h>
+	<QtCore/qscopedpointer.h>
+	<QtCore/qmetatype.h>
+	<QtCore/qobject_impl.h>
+	<chrono>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qobjectdefs.h
+	<QtCore/qnamespace.h>
+	<QtCore/qobjectdefs_impl.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qobjectdefs_impl.h
+	<QtCore/qnamespace.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qlist.h
+	<QtCore/qalgorithms.h>
+	<QtCore/qiterator.h>
+	<QtCore/qrefcount.h>
+	<QtCore/qarraydata.h>
+	<QtCore/qhashfunctions.h>
+	<iterator>
+	<list>
+	<algorithm>
+	<initializer_list>
+	<stdlib.h>
+	<new>
+	<limits.h>
+	<string.h>
+	<QtCore/qbytearraylist.h>
+	<QtCore/qstringlist.h>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qalgorithms.h
+	<QtCore/qglobal.h>
+	<intrin.h>
+
+1508723488 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qiterator.h
+	<QtCore/qglobal.h>
+
+1508723488 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qhashfunctions.h
+	<QtCore/qchar.h>
+	<QtCore/qpair.h>
+	<numeric>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qpair.h
+	<QtCore/qglobal.h>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qbytearraylist.h
+	<QtCore/qlist.h>
+	<QtCore/qbytearray.h>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qstringlist.h
+	<QtCore/qlist.h>
+	<QtCore/qalgorithms.h>
+	<QtCore/qregexp.h>
+	<QtCore/qstring.h>
+	<QtCore/qstringmatcher.h>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qregexp.h
+	<QtCore/qglobal.h>
+	<QtCore/qstring.h>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qstringmatcher.h
+	<QtCore/qstring.h>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qcoreevent.h
+	<QtCore/qnamespace.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qobjectdefs.h>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qscopedpointer.h
+	<QtCore/qglobal.h>
+	<stdlib.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qmetatype.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qvarlengtharray.h>
+	<QtCore/qobjectdefs.h>
+	<new>
+	<vector>
+	<list>
+	<map>
+
+1508723494 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qvarlengtharray.h
+	<QtCore/qcontainerfwd.h>
+	<QtCore/qglobal.h>
+	<QtCore/qalgorithms.h>
+	<new>
+	<string.h>
+	<stdlib.h>
+	<algorithm>
+	<initializer_list>
+	<iterator>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qcontainerfwd.h
+	<QtCore/qglobal.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qobject_impl.h
+
+1508723488 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qeventloop.h
+	<QtCore/qobject.h>
+
+1508723506 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qwindowdefs.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qobjectdefs.h>
+	<QtCore/qnamespace.h>
+	<QtGui/qwindowdefs_win.h>
+
+1508723506 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qwindowdefs_win.h
+	<QtGui/qtguiglobal.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qpoint.h
+	<QtCore/qnamespace.h>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qsize.h
+	<QtCore/qnamespace.h>
+
+1508723500 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qcursor.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qpoint.h>
+	<QtGui/qwindowdefs.h>
+
+1508723512 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qdesktopwidget.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtWidgets/qwidget.h>
+
+1508723518 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qwidget.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qobject.h>
+	<QtCore/qmargins.h>
+	<QtGui/qpaintdevice.h>
+	<QtGui/qpalette.h>
+	<QtGui/qfont.h>
+	<QtGui/qfontmetrics.h>
+	<QtGui/qfontinfo.h>
+	<QtWidgets/qsizepolicy.h>
+	<QtGui/qregion.h>
+	<QtGui/qbrush.h>
+	<QtGui/qcursor.h>
+	<QtGui/qkeysequence.h>
+	<QtGui/qevent.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qmargins.h
+	<QtCore/qnamespace.h>
+
+1508723504 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qpaintdevice.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qrect.h>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qrect.h
+	<QtCore/qmargins.h>
+	<QtCore/qsize.h>
+	<QtCore/qpoint.h>
+
+1508723504 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qpalette.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qwindowdefs.h>
+	<QtGui/qcolor.h>
+	<QtGui/qbrush.h>
+
+1508723500 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qcolor.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qrgb.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qstringlist.h>
+	<QtGui/qrgba64.h>
+
+1508723504 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qrgb.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qprocessordetection.h>
+
+1508723506 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qrgba64.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qprocessordetection.h>
+
+1508723500 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qbrush.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qpair.h>
+	<QtCore/qpoint.h>
+	<QtCore/qvector.h>
+	<QtCore/qscopedpointer.h>
+	<QtGui/qcolor.h>
+	<QtGui/qmatrix.h>
+	<QtGui/qtransform.h>
+	<QtGui/qimage.h>
+	<QtGui/qpixmap.h>
+
+1508723494 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qvector.h
+	<QtCore/qalgorithms.h>
+	<QtCore/qiterator.h>
+	<QtCore/qlist.h>
+	<QtCore/qrefcount.h>
+	<QtCore/qarraydata.h>
+	<QtCore/qhashfunctions.h>
+	<iterator>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<initializer_list>
+	<algorithm>
+	<QtCore/qpoint.h>
+
+1508723502 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qmatrix.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qpolygon.h>
+	<QtGui/qregion.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qline.h>
+	<QtCore/qpoint.h>
+	<QtCore/qrect.h>
+
+1508723504 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qpolygon.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qvector.h>
+	<QtCore/qpoint.h>
+	<QtCore/qrect.h>
+
+1508723504 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qregion.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qrect.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qdatastream.h>
+
+1508723488 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qdatastream.h
+	<QtCore/qscopedpointer.h>
+	<QtCore/qiodevice.h>
+	<QtCore/qpair.h>
+
+1508723488 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qiodevice.h
+	<QtCore/qglobal.h>
+	<QtCore/qobject.h>
+	<QtCore/qobjectdefs.h>
+	<QtCore/qscopedpointer.h>
+	<QtCore/qstring.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qline.h
+	<QtCore/qpoint.h>
+
+1508723506 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qtransform.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qmatrix.h>
+	<QtGui/qpainterpath.h>
+	<QtGui/qpolygon.h>
+	<QtGui/qregion.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qline.h>
+	<QtCore/qpoint.h>
+	<QtCore/qrect.h>
+
+1508723504 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qpainterpath.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qmatrix.h>
+	<QtCore/qglobal.h>
+	<QtCore/qrect.h>
+	<QtCore/qline.h>
+	<QtCore/qvector.h>
+	<QtCore/qscopedpointer.h>
+
+1508723502 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qimage.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qcolor.h>
+	<QtGui/qrgb.h>
+	<QtGui/qpaintdevice.h>
+	<QtGui/qpixelformat.h>
+	<QtGui/qtransform.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qrect.h>
+	<QtCore/qstring.h>
+	<QtCore/qstringlist.h>
+
+1508723504 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qpixelformat.h
+	<QtGui/qtguiglobal.h>
+
+1508723504 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qpixmap.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qpaintdevice.h>
+	<QtGui/qcolor.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qstring.h>
+	<QtCore/qsharedpointer.h>
+	<QtGui/qimage.h>
+	<QtGui/qtransform.h>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qsharedpointer.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qshareddata.h>
+	<QtCore/qsharedpointer_impl.h>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qshareddata.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qhash.h>
+	<QtCore/qhashfunctions.h>
+
+1508723488 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qhash.h
+	<QtCore/qchar.h>
+	<QtCore/qiterator.h>
+	<QtCore/qlist.h>
+	<QtCore/qrefcount.h>
+	<QtCore/qhashfunctions.h>
+	<initializer_list>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qsharedpointer_impl.h
+	<new>
+	<QtCore/qatomic.h>
+	<QtCore/qobject.h>
+	<QtCore/qhash.h>
+	<QtCore/qhashfunctions.h>
+
+1508723500 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qfont.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qstring.h>
+	<QtCore/qsharedpointer.h>
+
+1508723500 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qfontmetrics.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qfont.h>
+	<QtCore/qsharedpointer.h>
+	<QtCore/qrect.h>
+
+1508723500 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qfontinfo.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qfont.h>
+	<QtCore/qsharedpointer.h>
+
+1508723516 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qsizepolicy.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtCore/qobject.h>
+	<QtCore/qalgorithms.h>
+
+1508723502 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qkeysequence.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qstring.h>
+	<QtCore/qobjectdefs.h>
+
+1508723500 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qevent.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qwindowdefs.h>
+	<QtGui/qregion.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qstring.h>
+	<QtGui/qkeysequence.h>
+	<QtCore/qcoreevent.h>
+	<QtCore/qvariant.h>
+	<QtCore/qmap.h>
+	<QtCore/qvector.h>
+	<QtCore/qset.h>
+	<QtCore/qurl.h>
+	<QtCore/qfile.h>
+	<QtGui/qvector2d.h>
+	<QtGui/qtouchdevice.h>
+
+1508723494 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qvariant.h
+	<QtCore/qatomic.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qlist.h>
+	<QtCore/qmetatype.h>
+	<QtCore/qmap.h>
+	<QtCore/qhash.h>
+	<QtCore/qstring.h>
+	<QtCore/qstringlist.h>
+	<QtCore/qobject.h>
+	<QtCore/qbytearraylist.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qmap.h
+	<QtCore/qiterator.h>
+	<QtCore/qlist.h>
+	<QtCore/qrefcount.h>
+	<QtCore/qpair.h>
+	<QtCore/qdebug.h>
+	<map>
+	<new>
+	<functional>
+	<initializer_list>
+
+1508723488 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qdebug.h
+	<QtCore/qalgorithms.h>
+	<QtCore/qhash.h>
+	<QtCore/qlist.h>
+	<QtCore/qmap.h>
+	<QtCore/qpair.h>
+	<QtCore/qtextstream.h>
+	<QtCore/qstring.h>
+	<QtCore/qvector.h>
+	<QtCore/qset.h>
+	<QtCore/qcontiguouscache.h>
+	<QtCore/qsharedpointer.h>
+	<vector>
+	<list>
+	<map>
+	<utility>
+
+1508723494 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qtextstream.h
+	<QtCore/qiodevice.h>
+	<QtCore/qstring.h>
+	<QtCore/qchar.h>
+	<QtCore/qlocale.h>
+	<QtCore/qscopedpointer.h>
+	<stdio.h>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qlocale.h
+	<QtCore/qvariant.h>
+	<QtCore/qstring.h>
+	<QtCore/qobjectdefs.h>
+	<QtCore/qshareddata.h>
+
+1508723492 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qset.h
+	<QtCore/qhash.h>
+	<initializer_list>
+	<iterator>
+
+1508723486 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qcontiguouscache.h
+	<QtCore/qatomic.h>
+	<limits.h>
+	<new>
+
+1508723494 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qurl.h
+	<QtCore/qbytearray.h>
+	<QtCore/qobjectdefs.h>
+	<QtCore/qstring.h>
+	<QtCore/qlist.h>
+	<QtCore/qpair.h>
+	<QtCore/qglobal.h>
+	<QtCore/qurlquery.h>
+
+1508723494 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qurlquery.h
+	<QtCore/qpair.h>
+	<QtCore/qshareddata.h>
+	<QtCore/qurl.h>
+	<QtCore/qstringlist.h>
+
+1508723488 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qfile.h
+	<QtCore/qfiledevice.h>
+	<QtCore/qstring.h>
+	<stdio.h>
+
+1508723488 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qfiledevice.h
+	<QtCore/qiodevice.h>
+	<QtCore/qstring.h>
+
+1508723506 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qvector2d.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qpoint.h>
+	<QtCore/qmetatype.h>
+
+1508723506 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qtouchdevice.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qobject.h>
+
+1508723500 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qguiapplication.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qcoreapplication.h>
+	<QtGui/qwindowdefs.h>
+	<QtGui/qinputmethod.h>
+	<QtCore/qlocale.h>
+	<QtCore/qpoint.h>
+	<QtCore/qsize.h>
+
+1508723502 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qinputmethod.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qobject.h>
+
+1508723514 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qmainwindow
+	"qmainwindow.h"
+
+1508723514 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qmainwindow.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtWidgets/qwidget.h>
+	<QtWidgets/qtabwidget.h>
+
+1508723518 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qtabwidget.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtWidgets/qwidget.h>
+	<QtGui/qicon.h>
+
+1508723500 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qicon.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qsize.h>
+	<QtCore/qlist.h>
+	<QtGui/qpixmap.h>
+
+1508723480 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qchartview
+	"qchartview.h"
+
+1508723480 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qchartview.h
+	<QtCharts/QAbstractAxis>
+	<QtCharts/QAbstractSeries>
+	<QtCharts/QChart>
+	<QtWidgets/QGraphicsView>
+
+1508723480 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qabstractaxis
+	"qabstractaxis.h"
+
+1508723480 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qabstractaxis.h
+	<QtCharts/QChartGlobal>
+	<QtGui/QPen>
+	<QtGui/QFont>
+	<QtCore/QVariant>
+
+1508723480 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qchartglobal
+	"qchartglobal.h"
+
+1508723480 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qchartglobal.h
+	<QtCore/QtGlobal>
+
+1508723494 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qtglobal
+	"qglobal.h"
+
+1508723504 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qpen
+	"qpen.h"
+
+1508723504 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qpen.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qcolor.h>
+	<QtGui/qbrush.h>
+
+1508723500 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qfont
+	"qfont.h"
+
+1508723494 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qvariant
+	"qvariant.h"
+
+1508723480 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qabstractseries
+	"qabstractseries.h"
+
+1508723480 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qabstractseries.h
+	<QtCharts/QChartGlobal>
+	<QtCharts/QAbstractAxis>
+	<QtCore/QObject>
+	<QtGui/QPen>
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qobject
+	"qobject.h"
+
+1508723480 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qchart
+	"qchart.h"
+
+1508723480 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qchart.h
+	<QtCharts/QAbstractSeries>
+	<QtCharts/QLegend>
+	<QtWidgets/QGraphicsWidget>
+	<QtCore/QMargins>
+
+1508723482 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qlegend
+	"qlegend.h"
+
+1508723482 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qlegend.h
+	<QtCharts/QChartGlobal>
+	<QtWidgets/QGraphicsWidget>
+	<QtGui/QPen>
+	<QtGui/QBrush>
+
+1508723514 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qgraphicswidget
+	"qgraphicswidget.h"
+
+1508723514 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qgraphicswidget.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtGui/qfont.h>
+	<QtWidgets/qgraphicslayoutitem.h>
+	<QtWidgets/qgraphicsitem.h>
+	<QtGui/qpalette.h>
+
+1508723514 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qgraphicslayoutitem.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtCore/qscopedpointer.h>
+	<QtWidgets/qsizepolicy.h>
+	<QtGui/qevent.h>
+
+1508723514 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qgraphicsitem.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtCore/qobject.h>
+	<QtCore/qvariant.h>
+	<QtCore/qrect.h>
+	<QtCore/qscopedpointer.h>
+	<QtGui/qpainterpath.h>
+	<QtGui/qpixmap.h>
+
+1508723500 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qbrush
+	"qbrush.h"
+
+1508723490 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcore\qmargins
+	"qmargins.h"
+
+1508723514 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qgraphicsview
+	"qgraphicsview.h"
+
+1508723514 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qgraphicsview.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtCore/qmetatype.h>
+	<QtGui/qpainter.h>
+	<QtWidgets/qscrollarea.h>
+	<QtWidgets/qgraphicsscene.h>
+
+1508723504 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qpainter.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qrect.h>
+	<QtCore/qpoint.h>
+	<QtCore/qscopedpointer.h>
+	<QtGui/qpixmap.h>
+	<QtGui/qimage.h>
+	<QtGui/qtextoption.h>
+	<QtGui/qpolygon.h>
+	<QtGui/qpen.h>
+	<QtGui/qbrush.h>
+	<QtGui/qmatrix.h>
+	<QtGui/qtransform.h>
+	<QtGui/qfontinfo.h>
+	<QtGui/qfontmetrics.h>
+
+1508723506 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtgui\qtextoption.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qchar.h>
+	<QtCore/qmetatype.h>
+
+1508723516 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qscrollarea.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtWidgets/qabstractscrollarea.h>
+
+1508723512 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qabstractscrollarea.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtWidgets/qframe.h>
+
+1508723512 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qframe.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtWidgets/qwidget.h>
+
+1508723514 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtwidgets\qgraphicsscene.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtCore/qobject.h>
+	<QtCore/qpoint.h>
+	<QtCore/qrect.h>
+	<QtGui/qbrush.h>
+	<QtGui/qfont.h>
+	<QtGui/qtransform.h>
+	<QtGui/qmatrix.h>
+	<QtGui/qpen.h>
+
+1508723482 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qlineseries
+	"qlineseries.h"
+
+1508723482 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qlineseries.h
+	<QtCharts/QChartGlobal>
+	<QtCharts/QXYSeries>
+	<QtGui/QPen>
+
+1508723482 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qxyseries
+	"qxyseries.h"
+
+1508723482 e:\poli\segundo semestre\programação orientada a objeto\ep3\ep3.1\qt-windows\qtcharts\qxyseries.h
+	<QtCharts/QChartGlobal>
+	<QtCharts/QAbstractSeries>
+	<QtGui/QPen>
+	<QtGui/QBrush>
+
